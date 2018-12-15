@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TestInternetSpeed</string>
+
+    <string name="network_edge">Network : EDGE</string>
+    <string name="network_3g">Network : 3G</string>
+    <string name="network_detecting">Network : Detecting </string>
+
+    <string name="update_speed">%s kbit/sec</string>
+    <string name="update_downloaded">Downloaded %s of %s</string>
+    <string name="update_connectionspeed">Connection time %s ms</string>
+
+    <string name="update_downloaded_complete">Downloaded %s @ %s kbit/sec</string>
+</resources>
